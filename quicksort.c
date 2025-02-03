@@ -1,6 +1,4 @@
 #include <stdio.h>
-ngrok config add-authtoken 2ciEGq2GrYRjGZcHhCoyzBQrE3e_5XPSc7RMGKLUWHYYUY39K
-
 #include <stdlib.h>
 #include <time.h>
 
